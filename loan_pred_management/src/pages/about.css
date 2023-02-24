@@ -1,0 +1,18 @@
+.about_main {
+    background-color: white;
+    width: 80vw;
+    height: 45vh;
+    margin-left: 10%;
+    margin-top: 4rem;
+    border-radius: 2rem;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.about_content {
+    padding: 5rem;
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 1rem;
+    letter-spacing: 0.1rem;
+}

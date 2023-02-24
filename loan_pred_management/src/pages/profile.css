@@ -1,0 +1,25 @@
+.profile_container {
+    background-color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 2rem;
+        width: 80vw;
+        height: 75vh;
+        margin-left: 10rem;
+        border-radius: 2rem;
+        box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+        margin-bottom: 1rem;
+}
+
+.pr_img_cont {
+    margin-top: 2rem;
+}
+
+.other_info {
+    display: flex;
+    flex-direction: column;
+    margin-top: 3rem;
+    align-items: center;
+    
+}

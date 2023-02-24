@@ -1,0 +1,31 @@
+
+.header_main {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem;
+    color: white;
+}
+
+h3 {
+    cursor: pointer;
+}
+
+.nav > ul{
+    display: flex;
+    list-style: none;
+    width: 500px;
+}
+
+.nav > ul > li {
+    margin-left: 2.5rem;
+    font-weight: 500;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+
+
+.loginbtn {
+    background-color: #2a917e;
+}
