@@ -15,12 +15,12 @@
 .each_loan {
     background-color: rgb(8, 85, 71);
     display: flex;
-    width: 50%;
+    width: 80%;
     padding: 1rem;
-    margin: 3rem;
     justify-content: space-around;
     height: max-content;
     color: white;
     border-radius: 10px;
     cursor: pointer;
+    margin-left: 1.5rem;
 }
